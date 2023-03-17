@@ -1,0 +1,20 @@
+body {
+  box-sizing: border-box;
+}
+
+input {
+  position: relative;
+  width: 45%;
+  margin-left: 5%;
+}
+
+.display {
+  position: absolute;
+  width: 45%;
+  margin-left: 5%;
+  background-color: aqua;
+}
+
+.hidden {
+  display: none;
+}
