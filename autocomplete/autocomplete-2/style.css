@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+input {
+  position: relative;
+  width: 40rem;
+}
+
+.display {
+  position: absolute;
+  width: 40rem;
+  background-color: aqua;
+}
+
+.hintItem {
+  cursor: pointer;
+}

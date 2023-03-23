@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+input {
+  position: relative;
+  width: 40rem;
+  height: 3rem;
+}
+
+.display {
+  position: absolute;
+  width: 40rem;
+  background-color: aqua;
+  border: 0.5px solid black;
+}
+
+.display-item {
+  cursor: pointer;
+}
+
+.display-item:hover {
+  background-color: azure;
+}

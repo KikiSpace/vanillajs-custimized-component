@@ -1,0 +1,15 @@
+const data = [
+  "apple",
+  "appple",
+  "banana",
+  "baaanana",
+  "watermelon",
+  "waaatermelon",
+  "cat",
+  "caaat",
+  "dog",
+  "dooog",
+  "husky",
+  "huusky",
+  "huuusky",
+];

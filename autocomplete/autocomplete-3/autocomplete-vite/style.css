@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+input {
+  position: relative;
+  width: 40rem;
+  height: 3rem;
+  outline-color: aqua;
+}
+
+.display {
+  position: absolute;
+  width: 40rem;
+  background-color: aqua;
+  border: 1px solid black;
+}
+
+.hint-item {
+  cursor: pointer;
+
+  height: 2rem;
+}
+
+.hint-item:hover {
+  background-color: azure;
+}
